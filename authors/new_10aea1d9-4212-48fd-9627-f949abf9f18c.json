@@ -1,0 +1,41 @@
+{
+  "slug": "catarina-chase-aleixo",
+  "name": "Catarina Aleixo",
+  "role": "Contributor",
+  "description": [
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Catarina is a freelance content writer, journalist and translator based in Lisbon, Portugal. She is bilingual in English and Portuguese and loves helping businesses and brands communicate their message in either language, or even both. You can find her on <a href=\"https://www.linkedin.com/in/catarinaaleixo/\">LinkedIn.</a>"
+      }
+    }
+  ],
+  "picture": {
+    "origin": {
+      "width": 152,
+      "height": 152,
+      "url": "https://secure.gravatar.com/avatar/cff2a0ea7d09268bb88ed7db411a6682?s=96&d=mm&r=g",
+      "id": ""
+    }
+  },
+  "body": [
+    {
+      "key": "call_to_action$9c6c479e-8895-4edb-9b86-e54be67c5624",
+      "value": {
+        "variation": "newsletter",
+        "items": [
+          {}
+        ],
+        "primary": {
+          "title": "Want more?",
+          "description": "Sign up for our newsletter for more articles and guides",
+          "showOptions": false
+        }
+      }
+    }
+  ],
+  "type": "author",
+  "tags": [],
+  "lang": "en-us",
+  "grouplang": "Yd8MhhAAACYA4lQu"
+}

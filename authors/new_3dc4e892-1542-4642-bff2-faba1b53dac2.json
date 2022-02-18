@@ -1,0 +1,41 @@
+{
+  "slug": "pete",
+  "name": "Peter Coath",
+  "role": "Contributor",
+  "description": [
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Pete is a courier driver driving throughout the U.K. He posts videos about where he has been, what he is delivering, and what he has learnt to help you make money. You can find him on <a href=\"https://www.youtube.com/c/PetetheCourierDriver\">YouTube</a>"
+      }
+    }
+  ],
+  "picture": {
+    "origin": {
+      "width": 152,
+      "height": 152,
+      "url": "https://secure.gravatar.com/avatar/6d985f78ecd47281f487e3bce1e50dc5?s=96&d=mm&r=g",
+      "id": ""
+    }
+  },
+  "body": [
+    {
+      "key": "call_to_action$9c6c479e-8895-4edb-9b86-e54be67c5624",
+      "value": {
+        "variation": "newsletter",
+        "items": [
+          {}
+        ],
+        "primary": {
+          "title": "Want more?",
+          "description": "Sign up for our newsletter for more articles and guides",
+          "showOptions": false
+        }
+      }
+    }
+  ],
+  "type": "author",
+  "tags": [],
+  "lang": "en-us",
+  "grouplang": "Yd8MhhAAACYA4lQu"
+}

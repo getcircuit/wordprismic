@@ -1,0 +1,41 @@
+{
+  "slug": "sam",
+  "name": "Sam Ruston",
+  "role": "Contributor",
+  "description": [
+    {
+      "type": "paragraph",
+      "content": {
+        "text": ""
+      }
+    }
+  ],
+  "picture": {
+    "origin": {
+      "width": 152,
+      "height": 152,
+      "url": "https://secure.gravatar.com/avatar/0695c082873bcbc0b89ee19e200fe538?s=96&d=mm&r=g",
+      "id": ""
+    }
+  },
+  "body": [
+    {
+      "key": "call_to_action$9c6c479e-8895-4edb-9b86-e54be67c5624",
+      "value": {
+        "variation": "newsletter",
+        "items": [
+          {}
+        ],
+        "primary": {
+          "title": "Want more?",
+          "description": "Sign up for our newsletter for more articles and guides",
+          "showOptions": false
+        }
+      }
+    }
+  ],
+  "type": "author",
+  "tags": [],
+  "lang": "en-us",
+  "grouplang": "Yd8MhhAAACYA4lQu"
+}

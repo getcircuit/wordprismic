@@ -1,0 +1,26 @@
+{
+  "slug": "save-time",
+  "name": "Save time",
+  "description": "Advice and insights on how to make the most of your work day",
+  "product": "route-planner",
+  "color": "fuchsia",
+  "body": [
+    {
+      "key": "header$ee9ad8df-1943-4365-9994-372eb069fac2",
+      "value": {
+        "variation": "blogHeader",
+        "items": [{}],
+        "primary": {
+          "navigation": {
+            "id": "Ygu1UBEAACQAazX1",
+            "wioUrl": "wio://documents/Ygu1UBEAACQAazX1"
+          }
+        }
+      }
+    }
+  ],
+  "type": "category",
+  "tags": ["route-planner"],
+  "lang": "en-us",
+  "grouplang": "YebBjREAACIAqQr0"
+}

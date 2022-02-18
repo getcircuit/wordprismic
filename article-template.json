@@ -1,0 +1,73 @@
+{
+  "slug": "import-template",
+  "time_to_read": "time to read",
+  "title": "Import Template",
+  "abstract": [
+    {
+      "type": "paragraph",
+      "content": { "text": "Abstract goes here", "spans": [] }
+    }
+  ],
+  "author": {
+    "id": "Yd8MhhAAACYA4lQs",
+    "wioUrl": "wio://documents/Yd8MhhAAACYA4lQs"
+  },
+  "product": "route-planner",
+  "description": "Description goes here",
+  "featured_image": {
+    "origin": {
+      "id": "YUS_yhEAACEAWWeH",
+      "url": "https://prismic-io.s3.amazonaws.com/getcircuit/3b482057-fe6e-4d51-93e1-630c3bb17e96_Banner+image+string.png",
+      "width": 1440,
+      "height": 1400
+    }
+  },
+  "body": [
+    {
+      "key": "rich_text$e9ede6f0-d3b6-404c-96be-a694d70c776c",
+      "value": {
+        "variation": "default-slice",
+        "items": [{}],
+        "primary": {
+          "content": []
+        }
+      }
+    }
+  ],
+  "no_index": false,
+  "meta": [{ "title1": "SEO Title", "description1": "SEO Description" }],
+  "social": [
+    {
+      "image": {
+        "origin": {
+          "id": "Ya9cJxEAACYAztMO",
+          "url": "https://prismic-io.s3.amazonaws.com/getcircuit/d0cb9568-4d2d-4e30-8bf1-5b976740f207_Teams_Features_7.png",
+          "width": 1120,
+          "height": 1120
+        },
+        "width": 1120,
+        "height": 1120,
+        "url": "https://images.prismic.io/getcircuit/d0cb9568-4d2d-4e30-8bf1-5b976740f207_Teams_Features_7.png?auto=compress,format",
+        "edit": {
+          "background": "transparent",
+          "zoom": 1.0,
+          "crop": { "x": 0, "y": 0 }
+        },
+        "credits": null,
+        "alt": null,
+        "provider": "imgix",
+        "thumbnails": {}
+      },
+      "title1": "Social card title",
+      "description1": "Social card description"
+    }
+  ],
+  "primary_category": {
+    "id": "YebBjREAACIAqQry",
+    "wioUrl": "wio://documents/YebBjREAACIAqQry"
+  },
+  "type": "article",
+  "tags": [],
+  "lang": "en-us",
+  "grouplang": "Yg6MwBEAACMAd_Ea"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "david-klose",
+  "name": "David Klose",
+  "role": "Contributor",
+  "description": [
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "David is a content writer based out of Phoenix, Arizona. He has written for SaaS and e-commerce companies, as well as several mattress blogs. His work on sleep health has been featured on Today.com and Yahoo! Lifestyle."
+      }
+    }
+  ],
+  "picture": {
+    "origin": {
+      "width": 152,
+      "height": 152,
+      "url": "https://secure.gravatar.com/avatar/2370e6c4df288faf32e2e268539e878a?s=96&d=mm&r=g",
+      "id": ""
+    }
+  },
+  "body": [
+    {
+      "key": "call_to_action$9c6c479e-8895-4edb-9b86-e54be67c5624",
+      "value": {
+        "variation": "newsletter",
+        "items": [
+          {}
+        ],
+        "primary": {
+          "title": "Want more?",
+          "description": "Sign up for our newsletter for more articles and guides",
+          "showOptions": false
+        }
+      }
+    }
+  ],
+  "type": "author",
+  "tags": [],
+  "lang": "en-us",
+  "grouplang": "Yd8MhhAAACYA4lQu"
+}
