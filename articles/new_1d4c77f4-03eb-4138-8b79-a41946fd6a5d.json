@@ -1,0 +1,997 @@
+{
+  "slug": "efficient-delivery",
+  "time_to_read": "time to read",
+  "title": "How to Guarantee Efficient Delivery: A Guide for Dispatchers",
+  "abstract": [],
+  "author": {
+    "id": "Yg60FBEAACEAeKJC",
+    "wioUrl": "wio://documents/Yg60FBEAACEAeKJC"
+  },
+  "product": "teams",
+  "description": [
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Guaranteeing efficient deliveries is a key part of offering a high-quality delivery service, while also maintaining the highest possible profit. Here is how you do it.",
+        "spans": []
+      }
+    }
+  ],
+  "featured_image": {
+    "origin": {
+      "id": "",
+      "url": "https://wordpress.getcircuit.com/wp-content/uploads/2022/01/fcc592d7-b989-475c-a172-43436a354fc7.png",
+      "width": 2224,
+      "height": 1288
+    }
+  },
+  "body": [
+    {
+      "key": "rich_text$e9ede6f0-d3b6-404c-96be-a694d70c776c",
+      "value": {
+        "variation": "default-slice",
+        "items": [
+          {}
+        ],
+        "primary": {
+          "content": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Guaranteeing efficient delivery is a key part of offering a high-quality delivery service, while also maintaining the highest possible profit.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "And although the word “efficient” implies increasing delivery speed, this isn’t the only consideration when you’re focused on improving efficiency. If you manage a team of delivery drivers, you want to consider other performance metrics.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "These include ensuring that every driver uses optimized routes, each stop gets completed in the shortest time, and packages end up where they are intended to be. Finally, you want full customer satisfaction. Every time.",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 46,
+                    "end": 62
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "In this post, we’ll outline exactly how you can improve delivery efficiency in just a few easy steps using our delivery management platform, Circuit for Teams.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams"
+                    },
+                    "start": 141,
+                    "end": 158
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "These steps include:",
+                "spans": []
+              }
+            },
+            {
+              "type": "o-list-item",
+              "content": {
+                "text": "Organizing packages before starting delivery routes.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "#organizing-packages"
+                    },
+                    "start": 0,
+                    "end": 52
+                  }
+                ]
+              }
+            },
+            {
+              "type": "o-list-item",
+              "content": {
+                "text": "Optimizing delivery routes to make them as efficient as possible.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "#optimizing-delivery-routes"
+                    },
+                    "start": 0,
+                    "end": 65
+                  }
+                ]
+              }
+            },
+            {
+              "type": "o-list-item",
+              "content": {
+                "text": "Freeing up drivers to focus on driving and delivering.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "#freeing-up-drivers"
+                    },
+                    "start": 0,
+                    "end": 54
+                  }
+                ]
+              }
+            },
+            {
+              "type": "o-list-item",
+              "content": {
+                "text": "Ensuring every package is delivered to the right place.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "#location"
+                    },
+                    "start": 0,
+                    "end": 55
+                  }
+                ]
+              }
+            },
+            {
+              "type": "o-list-item",
+              "content": {
+                "text": "Communicating efficiently with customers.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "#communicating-efficiently"
+                    },
+                    "start": 0,
+                    "end": 41
+                  }
+                ]
+              }
+            },
+            {
+              "type": "o-list-item",
+              "content": {
+                "text": "Providing great customer service.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "#customer-service"
+                    },
+                    "start": 0,
+                    "end": 33
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Circuit for Teams optimizes delivery routes and helps you navigate the complexities of delivery management. If you’re looking for a comprehensive tool for efficient deliveries, sign up for a free trial of Circuit for Teams.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/team/"
+                    },
+                    "start": 177,
+                    "end": 222
+                  },
+                  {
+                    "type": "em",
+                    "start": 0,
+                    "end": 223
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "1. Organizing Packages Before Heading Out",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 41
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The first step in increasing delivery efficiency is actually not about the delivery route itself. Planning starts with organizing packages in the delivery vehicle before the driver even sets out.",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 119,
+                    "end": 162
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "When it calculates a delivery route, Circuit for Teams gives drivers their list of stops in the order the route has been planned. With this information, drivers can load packages in their truck in the most efficient order. They can organize their packages first thing in the morning, or even the night before (if the truck is secure), ready for the next day’s deliveries.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams"
+                    },
+                    "start": 37,
+                    "end": 54
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Drivers can then use the fast package finder on their app, check the notes about where the package has been loaded, and grab it quickly. This speeds up each delivery stop, and reduces overall delivery times for the whole organization.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/route-planner/blog/place-in-vehicle-feature"
+                    },
+                    "start": 25,
+                    "end": 44
+                  }
+                ]
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2022/01/525af131-51b3-4d4a-812c-9e7d8e323287-1024x593.png"
+                },
+                "alt": "Organizing packages before starting delivery routes"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "By spending less time on each delivery, drivers can add more stops to their route, allowing for more packages to be delivered at a lower cost.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Note:Burd Eggsroute optimization softwareroute planning.",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 5
+                  },
+                  {
+                    "type": "em",
+                    "start": 0,
+                    "end": 5
+                  },
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "http://burdeggs.com.au/"
+                    },
+                    "start": 5,
+                    "end": 14
+                  },
+                  {
+                    "type": "em",
+                    "start": 5,
+                    "end": 14
+                  },
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/blog/burd-eggs-case-study"
+                    },
+                    "start": 14,
+                    "end": 32
+                  },
+                  {
+                    "type": "em",
+                    "start": 14,
+                    "end": 32
+                  },
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/blog/burd-eggs-case-study"
+                    },
+                    "start": 32,
+                    "end": 41
+                  },
+                  {
+                    "type": "em",
+                    "start": 32,
+                    "end": 41
+                  },
+                  {
+                    "type": "em",
+                    "start": 41,
+                    "end": 55
+                  },
+                  {
+                    "type": "em",
+                    "start": 55,
+                    "end": 56
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Including restaurants, bicycle couriers, and drug delivery businesses who saved time and money on their deliveries by using our delivery management software.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams/customer-stories"
+                    },
+                    "start": 0,
+                    "end": 0
+                  },
+                  {
+                    "type": "em",
+                    "start": 0,
+                    "end": 157
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "2. Optimizing Delivery Routes to Make Them as Efficient as Possible ",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 67
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "When you’re creating an efficient delivery system, the factor with the biggest impact is route optimization. Finding the fastest route for every delivery address is key, but is very complex and time-consuming to figure out manually.",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 89,
+                    "end": 108
+                  }
+                ]
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2022/01/137af277-ea00-4f38-a81a-ea7afb119091-1024x593.png"
+                },
+                "alt": "Optimizing delivery routes to make them as efficient as possible"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Although some online route planning tools are useful for calculating a simple delivery route, they have their limitations. Google Maps, for example, limits each route to 10 stops.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams/blog/multiple-destinations-google-maps-shortest-route"
+                    },
+                    "start": 149,
+                    "end": 178
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Clearly, if you have a team of drivers, using free online tools still falls short because you end up calculating each delivery route separately and still have to work out how to batch addresses together in the most efficient way.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "That’s impossible.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Instead, to take all the inefficiencies and guesswork out of manual and online route planning, you can use Circuit for Teams to calculate an optimized route in just a few minutes. This includes calculating efficient delivery routes across your entire team of drivers, rather than just calculating one route at a time.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams"
+                    },
+                    "start": 107,
+                    "end": 124
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Here’s how that works:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Upload your entire list of delivery addresses into Circuit (bulk load or manual load options are available);",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Circuit then calculates all your optimized delivery routes in a couple of minutes;",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "From there, you assign each delivery route to one of your drivers;",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Circuit then sends detailed driving instructions to each driver’s mobile app and they can make their deliveries using whichever map app they prefer.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "As we explained above, Circuit for Teams also generates a list of stops for each route in the right order, so drivers can organize packages before starting their route.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "You also get an accurate ETA for each stop, plus an estimate of how long the whole delivery route will take. This gives dispatchers and drivers a chance to add more deliveries to each route, if they find they have time for that.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "3. Free Up Drivers to Focus on Driving and Delivering ",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 53
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Ensuring efficient delivery also includes giving delivery drivers the tools they need to focus on the most important parts of their job: driving and making deliveries. ",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 137,
+                    "end": 167
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Without route management software, drivers can become distracted by:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Taking calls from dispatchers and customers about where they are and when deliveries will arrive;",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Figuring out new routes when traffic gets congested.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "All of this slows drivers down, which increases inefficiencies, makes delivery times less predictable, and can even lead to traffic accidents.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Circuit for Teams sends customers regular and accurate ETA notifications for their deliveries, cutting down on the need to contact drivers and dispatchers directly.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams"
+                    },
+                    "start": 0,
+                    "end": 17
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Dispatchers can also track drivers in real-time on the Circuit web app, so they can check on their location without slowing down the delivery process.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams/blog/delivery-driver-tracking-app"
+                    },
+                    "start": 21,
+                    "end": 47
+                  }
+                ]
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2022/01/6f76fa47-8ffb-446e-86eb-22043e736a01-1024x593.png"
+                },
+                "alt": "Freeing up drivers to focus on driving and delivering"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Accurate driving instructions allow drivers to focus on the road without reading printouts or looking at maps to see if they’ve taken a wrong turn.",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 47,
+                    "end": 64
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Additionally, Circuit for Teams re-calculates routes in real-time to avoid heavy traffic or accidents, keeping deliveries flowing. Drivers simply follow the updated instructions as they go, without having to find their own alternative routes.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Delivery times are always updated across the Circuit for Teams platform, and notifications get sent out to recipients when ETAs change.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "4. Ensuring Every Package Gets Delivered to the Right Place",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 59
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Using delivery scheduling software has the clear benefit of ensuring that packages arrive at the right address. And getting an efficient delivery process in place is about reducing missed deliveries to a minimum because they’re costly to correct.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams/blog/delivery-scheduling-software"
+                    },
+                    "start": 6,
+                    "end": 25
+                  }
+                ]
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2022/01/c0899647-aba7-4440-8b46-8b7b6a02483c-1024x593.png"
+                },
+                "alt": "Ensuring every package is delivered to the right place"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Many Circuit for Teams customers have saved a ton of time and reduced the payroll costs of their last-mile deliveries by using the “Bulk Add Addresses” spreadsheet import tool, shown above.",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 131,
+                    "end": 151
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This process avoids the time-consuming task of manually uploading a list of addresses and the potential mistakes this can cause. (Note: If you prefer to manually add addresses, you can also do that.)",
+                "spans": [
+                  {
+                    "type": "em",
+                    "start": 129,
+                    "end": 199
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Once again, accurate driving instructions are important in this step because they automatically take drivers to the addresses that have been uploaded. They also stop drivers from taking a wrong turn while out on their delivery route, preventing further delays in delivery times.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "5. Efficient Customer Communication ",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 35
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Without software to automate delivery status updates, communicating with customers can take up a lot of a delivery dispatcher’s time.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "By using Circuit for Teams, your customers receive their first notification — by SMS or email — at the beginning of the delivery day.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams"
+                    },
+                    "start": 9,
+                    "end": 26
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "When the delivery driver gets closer to their destination, they receive an updated ETA. Alternatively, they can click on a link sent in the first message of the day to get real-time updates on their delivery time. ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "By keeping customers updated in this way, they don’t need to contact dispatchers or drivers with questions. This saves on the time and energy it takes to deal with these customer queries, as well as preventing additional delays to delivery times.",
+                "spans": []
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2022/01/b839c67f-8d51-44fa-9c43-cee2c613f24b-1024x593.png"
+                },
+                "alt": "Communicating efficiently with customers"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Notifications also include electronic proof of delivery (ePOD) after the package has been dropped off at its final destination.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Using Circuit for Teams, drivers can take a photo of where they left the package (if the recipient isn’t home) and customers receive a notification including the photo and instructions on where to find it. The driver app also allows drivers to collect an electronic signature from the customer on their smartphone.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Proof of delivery information is stored in the cloud and shared with customers and dispatchers giving both sides the assurance that the package has been safely delivered.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "6. Providing Great Customer Service Customer Satisfaction ",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 57
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "As we’ve already mentioned, a great delivery system is not just about how fast you deliver a package, or how many packages you deliver. Although they’re not related to efficient delivery, customer satisfaction and customer retention are also vital for your business’s long term viability.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "According to a survey of 1,000 people by Circuit, a poor delivery experience will drive down sales, with ",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams/blog/delivery-experience-customer-behavior"
+                    },
+                    "start": 0,
+                    "end": 48
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "So, it’s clear that you can’t afford for your drivers to be careless, rushed, or rude to customers. They need to be efficient, while considering their personal influence on the customer experience.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Circuit for Teams allows your delivery drivers to focus on delivering by taking over a variety of tasks that they would otherwise need to deal with. This way, delivery drivers are less stressed and find it easier to provide a great last-mile delivery service.",
+                "spans": [
+                  {
+                    "type": "em",
+                    "start": 59,
+                    "end": 69
+                  }
+                ]
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2022/01/df8430e8-4ced-488e-a955-e59a2c645b68-1024x593.png"
+                },
+                "alt": "Providing great customer service"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "What Makes a Great Delivery Experience? Key Findings in Our Data",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams/blog/what-makes-a-great-delivery-experience"
+                    },
+                    "start": 0,
+                    "end": 64
+                  },
+                  {
+                    "type": "em",
+                    "start": 0,
+                    "end": 64
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Circuit for Teams: Route Management Software for an Efficient Delivery Service ",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 78
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Circuit for Teams gives your delivery team advanced delivery management software that makes it easy to provide an efficient delivery service. It gives you:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "A list of delivery stops in delivery order, with accurate route times;",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Route optimization for multiple delivery drivers on multiple delivery routes;",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Real-time driver tracking, driving instructions, and route recalculation so drivers can focus on their job;",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Bulk address imports to reduce delivery mistakes;",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Automatic, real-time customer notifications to improve communication;",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "A complete range of route management tools to provide an excellent customer experience.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Circuit for Teams optimizes delivery routes and helps you navigate the complexities of delivery management. If you’re looking for a comprehensive tool for efficient deliveries, sign up for a free trial of Circuit for Teams.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/team/"
+                    },
+                    "start": 177,
+                    "end": 222
+                  },
+                  {
+                    "type": "em",
+                    "start": 0,
+                    "end": 222
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "no_index": false,
+  "meta": [
+    {
+      "title1": "How to Guarantee Efficient Delivery: A Guide for Dispatchers",
+      "description1": "Guaranteeing efficient deliveries is a key part of offering a high-quality delivery service, while also maintaining the highest possible profit. Here is how you do it.\n"
+    }
+  ],
+  "social": [
+    {
+      "image": {
+        "origin": {
+          "id": "",
+          "url": "https://wordpress.getcircuit.com/wp-content/uploads/2022/01/fcc592d7-b989-475c-a172-43436a354fc7.png",
+          "width": 2224,
+          "height": 1288
+        }
+      },
+      "title1": "How to Guarantee Efficient Delivery: A Guide for Dispatchers",
+      "description1": "Guaranteeing efficient deliveries is a key part of offering a high-quality delivery service, while also maintaining the highest possible profit. Here is how you do it.\n"
+    }
+  ],
+  "primary_category": {
+    "id": "Yg7TlxEAACQAeTDI",
+    "wioUrl": "wio://documents/Yg7TlxEAACQAeTDI"
+  },
+  "type": "article",
+  "tags": [],
+  "lang": "en-us",
+  "grouplang": "Yg6MwBEAACMAd_Ea"
+}

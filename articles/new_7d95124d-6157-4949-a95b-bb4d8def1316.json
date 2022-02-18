@@ -1,0 +1,967 @@
+{
+  "slug": "last-mile-delivery-software",
+  "time_to_read": "time to read",
+  "title": "Last Mile Delivery Software Functionality: 6 Things to Look For",
+  "abstract": [],
+  "author": {
+    "id": "Yg60FBEAACEAeKJC",
+    "wioUrl": "wio://documents/Yg60FBEAACEAeKJC"
+  },
+  "product": "teams",
+  "description": [
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Last mile delivery software can take a load off of you, but which functionality is the most important for delivery services?",
+        "spans": []
+      }
+    }
+  ],
+  "featured_image": {
+    "origin": {
+      "id": "",
+      "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/09/5ffb6e4a-039a-46e3-b9e0-9cdae8d461af.png",
+      "width": 2224,
+      "height": 1288
+    }
+  },
+  "body": [
+    {
+      "key": "rich_text$e9ede6f0-d3b6-404c-96be-a694d70c776c",
+      "value": {
+        "variation": "default-slice",
+        "items": [
+          {}
+        ],
+        "primary": {
+          "content": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If you manage a team of delivery drivers, you know how time-consuming and mentally taxing it can be — especially if you’ve ever implemented that process manually. You need to decide which addresses to assign to each delivery driver, work out the fastest route for each of them, try to keep track of completed deliveries, and know where everyone is at any given time.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Last mile delivery management software can take a lot of that load off you. But which functionality is the most important when you run a delivery service?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Choosing which last mile delivery software to use for your team of delivery drivers can be confusing, due to the many options available. At one end of the spectrum are the heavy-duty logistics software platforms dealing with the entire supply chain including last mile logistics, and mostly designed for enterprise businesses. At the other end, you have lightweight online route calculators designed for cycle couriers or people making occasional deliveries.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "In this post, we’ll show you 6 functionalities to look out for when choosing last mile delivery software for your delivery service, and we’ll dive into how our platform, Circuit for Teams, gives you everything you need:",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams"
+                    },
+                    "start": 170,
+                    "end": 187
+                  }
+                ]
+              }
+            },
+            {
+              "type": "o-list-item",
+              "content": {
+                "text": "Quick and easy delivery address upload",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "#delivery-address-upload"
+                    },
+                    "start": 0,
+                    "end": 38
+                  }
+                ]
+              }
+            },
+            {
+              "type": "o-list-item",
+              "content": {
+                "text": "Route optimization in just a few seconds",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "#route-optimization"
+                    },
+                    "start": 0,
+                    "end": 40
+                  }
+                ]
+              }
+            },
+            {
+              "type": "o-list-item",
+              "content": {
+                "text": "Real time changes to deliveries and routes",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "#real-time-updates"
+                    },
+                    "start": 0,
+                    "end": 42
+                  }
+                ]
+              }
+            },
+            {
+              "type": "o-list-item",
+              "content": {
+                "text": "Delivery and driver tracking",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "#delivery-tracking"
+                    },
+                    "start": 0,
+                    "end": 28
+                  }
+                ]
+              }
+            },
+            {
+              "type": "o-list-item",
+              "content": {
+                "text": "Automated customer notifications",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "#automated-customer-notifications"
+                    },
+                    "start": 0,
+                    "end": 32
+                  }
+                ]
+              }
+            },
+            {
+              "type": "o-list-item",
+              "content": {
+                "text": "Electronic proof of delivery",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "#pod"
+                    },
+                    "start": 0,
+                    "end": 28
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "To experience Circuit for Teams for yourself and discover how it can save you time and money with your last mile deliveries, start your free trial today.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "/teams"
+                    },
+                    "start": 136,
+                    "end": 152
+                  },
+                  {
+                    "type": "em",
+                    "start": 0,
+                    "end": 153
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "1. Quick and Easy Delivery Address Upload, Saving Time before Your Delivery Routes Begin",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 41
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Any efficient delivery process begins even before your drivers set out on their delivery route. From a dispatching point of view, that starts with efficiently and quickly inputting delivery addresses into your last mile delivery software.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Manually inputting addresses from your eCommerce software, along with being time-consuming, can lead to mistakes  — even sending drivers off to the wrong address. This, in turn, leads to more re-deliveries, wasted driver and dispatcher time, and, ultimately, higher delivery costs.",
+                "spans": []
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/09/ff430af8-601e-4105-93ef-414b49049559-1024x593.png"
+                },
+                "alt": "Last Mile Delivery Software Functionality: 6 Things to Look For. Quick and easy delivery address upload"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "When using Circuit for Teams, you just upload a spreadsheet of addresses taken directly from your sales software (whichever one you use) into the Circuit web app, and in just a few seconds our algorithm calculates efficient delivery routes for all your drivers. More about this later.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The list of addresses is then automatically sent to the Circuit driver app, so drivers don’t have to waste time inputting any addresses themselves (although they can also do that while out on deliveries, if they need to).\n",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "2. Route Optimization, for Faster and More Efficient Deliveries",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 21
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Manual route planning is exhausting, and it requires in-depth knowledge of each delivery area your delivery service covers — or a whole load of detailed maps. Once you’ve figured out what you believe is the best route, you have no guarantee that it really will be faster than any other potential routes you might have chosen.",
+                "spans": [
+                  {
+                    "type": "em",
+                    "start": 183,
+                    "end": 199
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Simple online route calculators are a step up from manual calculations, of course. But they also have their limitations. Google Maps, for example, sets a limit for ten stops per calculated route.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams/blog/best-route-calculator"
+                    },
+                    "start": 7,
+                    "end": 31
+                  },
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams/blog/multiple-destinations-google-maps-shortest-route"
+                    },
+                    "start": 147,
+                    "end": 194
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A better option is last mile delivery management software. It takes the headache out of calculating the most efficient delivery routes by using an algorithm to figure out the fastest possible route for each of your delivery drivers.",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 19,
+                    "end": 57
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "And when you’re using Circuit for Teams, in just a few clicks you can optimize your delivery route. This saves dispatchers tons of time when optimizing routes for each driver, and means their drivers can make more deliveries in a shorter time.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams"
+                    },
+                    "start": 22,
+                    "end": 39
+                  }
+                ]
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/11/c3d8cd0d-baf6-4b06-a6b5-98106b75071b-1024x593.png"
+                },
+                "alt": "The 5 Most Important Features of Your Delivery Logistics App. Circuit for Teams priority stops feature"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Circuit sends out detailed driving instructions to the driver app of each member of your delivery team. These instructions can be followed on your drivers’ own devices using their preferred maps app, whether that happens to be Apple Maps, Google Maps, or Waze.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://www.apple.com/maps/"
+                    },
+                    "start": 227,
+                    "end": 237
+                  },
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://www.google.com/maps"
+                    },
+                    "start": 239,
+                    "end": 250
+                  },
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://www.waze.com/"
+                    },
+                    "start": 255,
+                    "end": 259
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading3",
+              "content": {
+                "text": "How Circuit Helped One Company Slash Time Spent on Route Calculation:",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 69
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "When the Covid-19 pandemic led to closure of their bricks-and-mortar store, Plant Shop, a plant and flower retailer based in Seattle, saw online orders spike and home deliveries quickly rose from 10-15 per week, to 15-20 per day.",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 76,
+                    "end": 86
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Initially, owner Ryan Tansey manually calculated his routes for deliveries, which took him over an hour every day.",
+                "spans": []
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/09/4d46eb90-7e32-41db-97c5-d0882b6a7087-1024x593.png"
+                },
+                "alt": "Last Mile Delivery Software Functionality: 6 Things to Look For. Plant shop deliveries"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Ryan quickly found this process overwhelming and inefficient, so he turned to Circuit to solve the problem and make life easier. By loading his orders into Circuit, Ryan cut his route calculation and optimization time down to just 15 minutes per day, saving him almost 5 hours per week.",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 251,
+                    "end": 286
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Read the full case study to find out more about how Seattle’s Plant Shop used Circuit to handle a 566% rise in online orders.",
+                "spans": [
+                  {
+                    "type": "em",
+                    "start": 0,
+                    "end": 125
+                  },
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams/blog/plant-shop-seattle-case-study"
+                    },
+                    "start": 0,
+                    "end": 125
+                  },
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 125
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "3. Real-Time Changes to Deliveries and Routes, to Speed Up Delivery Times And Reduce Delays",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 45
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Being able to make changes to delivery routes in real-time is crucial. Perhaps a customer needs a delivery ASAP, something changes in the driver’s plans, or a new address gets added without notice. A useful route optimization software will allow for this, but some will force you to start the route calculation from scratch again.",
+                "spans": []
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/09/6ea0b524-aee1-42c5-bfa3-068084839c00-1024x593.png"
+                },
+                "alt": "Last Mile Delivery Software Functionality: 6 Things to Look For. Real-Time Changes to Deliveries"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Circuit for Teams lets you add addresses to any of your delivery routes, even after they’ve been calculated. Our algorithm automatically changes the driving instructions to include additional stops along the route, if required. This feature is useful for adding last-minute orders or same-day deliveries to delivery routes.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams"
+                    },
+                    "start": 0,
+                    "end": 17
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Real-time route changes also apply when Circuit for Teams notices that traffic conditions have changed. If traffic slows further along the pre-calculated delivery route, Circuit automatically recalculates the best route and gives alternative driving instructions for the driver to follow (as well as sending out updated ETA notifications to recipients — more about that later).",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This automated route recalculation lets drivers focus on driving without the added stress of optimizing a new route for all their stops, and it improves customer experience by reducing delays and keeping them informed of updated ETAs.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "to Keep an Eye on Progress without Slowing Drivers Down",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Another useful function of a delivery management software like Circuit for Teams is getting real-time visibility of delivery driver locations and tracking deliveries.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This means you know exactly where your drivers are along their delivery route all the time, without having to slow them down by calling or messaging them.",
+                "spans": []
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/09/4634cd05-7996-4078-8dbc-4cd5abfe7a6d-1024x593.png"
+                },
+                "alt": "Last Mile Delivery Software Functionality: 6 Things to Look For. Delivery and Driver Tracking"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Your Circuit for Teams web app lets dispatchers keep track of the entire driver team in real-time by highlighting their progress on a route map. This makes it very easy to give customers information about progress along delivery routes, along with giving them an accurate ETA for their delivery if they ask for it.",
+                "spans": [
+                  {
+                    "type": "em",
+                    "start": 85,
+                    "end": 97
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading3",
+              "content": {
+                "text": "How One Australian Business Uses Circuit to Keep Track of Delivery Drivers:",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 75
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "James Meek, co-owner of the Sydney-based Bennett St. Dairy café, started using Circuit to deliver cookie-dough to customers in March 2020.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://www.bennettstdairy.com/"
+                    },
+                    "start": 41,
+                    "end": 58
+                  }
+                ]
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/09/462f7af5-d9a0-4596-914a-21d1967be3bd-1024x593.png"
+                },
+                "alt": "Last Mile Delivery Software Functionality: 6 Things to Look For. Australian coffee shop"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Along with our route optimization feature, James loves having real-time knowledge of where his drivers are so he can check on how long it takes for each batch of cookie dough to get to its destination. This is important because the dough is perishable, and needs to be delivered within a specific time window.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "James also likes that Circuit gives him an accurate distance for each of the routes, so he can calculate fuel costs for his delivery service.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Read our full case study to find out how Bennett St. Dairy uses Circuit to optimize delivery routes for daily cookie dough deliveries.",
+                "spans": [
+                  {
+                    "type": "em",
+                    "start": 0,
+                    "end": 134
+                  },
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams/blog/perishable-food-delivery-with-bennet-st-dairy"
+                    },
+                    "start": 0,
+                    "end": 134
+                  },
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 134
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "to Manage Customer Expectations and Improve the Delivery Experience",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Routine customer communications, such as delivery status updates, can eat up a lot of time if you send out individual emails or messages. Automatic notifications, sent out by last mile delivery software, take over that process for you and keep customers informed at every stage of the delivery process.",
+                "spans": []
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/09/0e3cda64-66cf-4e6d-8c77-e24820d12e41-1024x593.png"
+                },
+                "alt": "Last Mile Delivery Software Functionality: 6 Things to Look For. Customer notifications"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Circuit for Teams automates customer notifications by sending out regular delivery status updates by email and/or SMS. These regular updates reassure customers that their delivery is on its way, and they free up dispatchers and drivers from fielding customer calls and providing those updates over the phone.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Sending out accurate ETAs and regular status notifications means customers spend less time waiting for their delivery, which reduces inconvenience and improves the customer experience.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading3",
+              "content": {
+                "text": "How Circuit Helps a Chocolate Maker Improve Customer Experience Using Automated Notifications:",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 94
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Eva Choi, founder of the Chocolate Lab in Calgary, uses Circuit for home deliveries of handmade chocolates. At busy times, like Christmas and Easter, she plans routes for up to four drivers. Circuit helps Eve optimize those routes and distribute them evenly between her drivers at the click of a button.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://www.chocolatelab.ca/"
+                    },
+                    "start": 25,
+                    "end": 38
+                  }
+                ]
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/09/4dadef45-e014-4c1c-858d-8d40e2292b4e-1024x593.png"
+                },
+                "alt": "Last Mile Delivery Software Functionality: 6 Things to Look For. Chocolate lab"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Eva particularly likes how Circuit helps her to deliver excellent customer service:",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "“For me, good business is understanding what type of experience you want your client to have,” Eva says. “And Circuit has helped with that because we can design optimized routes and deliver our product how we want it delivered. We can call customers in advance and let them know we’re coming versus just showing up and creating a jarring experience of someone knocking on your door unexpectedly.”",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Read the full case study for more information about how the Chocolate Lab uses Circuit to offer excellent customer service.",
+                "spans": [
+                  {
+                    "type": "em",
+                    "start": 0,
+                    "end": 123
+                  },
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams/blog/the-chocolate-lab-case-study"
+                    },
+                    "start": 0,
+                    "end": 123
+                  },
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 123
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "6. Electronic Proof of Delivery, to Record Delivery Status and Respond to Customer Complaints ",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 93
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Proof of delivery lets you record the delivery process and store confirmation for future reference. This is useful if a customer claims they’ve not received their delivery, and it’s a guarantee for you as the delivery service provider, and for the customer, if something goes awry during the delivery process.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Circuit for Teams gives you electronic proof of delivery in the form of photo capture (where drivers take a photo using their smartphone), and e-signature (where recipients confirm they have taken delivery by signing for it, also on the drivers’ device within the Circuit mobile app).",
+                "spans": []
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/09/834019fe-3ae4-4a7e-86a3-75176a9d4135-1024x593.png"
+                },
+                "alt": "Last Mile Delivery Software Functionality: 6 Things to Look For. Electronic proof of delivery"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If a customer isn’t home to take delivery of a package, the driver can take a photo of the safe place where they have left it. This photo is sent to the cloud for storage, as well as being included in an automated customer notification.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "All proof of delivery (POD) features cut the risk of false claims about failed deliveries, and they reduce the need to do re-deliveries (saving on gas and extra driver time) — plus save on the cost of replacing goods that have gone missing.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Circuit for Teams: Everything You Need from Last Mile Delivery Software in a Standalone Platform",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 96
+                  }
+                ]
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/09/970db608-da91-4238-9a1a-92485de81bf7-1024x593.png"
+                },
+                "alt": "Last Mile Delivery Software Functionality: 6 Things to Look For. Circuit for Teams"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Thousands of businesses, ranging from small courier companies to businesses with large delivery fleets, successfully use Circuit for Teams to manage their last mile deliveries. It gives delivery services everything they need to do the job:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Simple order and address upload",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Route optimization",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Real-time route re-calculation",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Driver and delivery tracking",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Automatic customer notifications",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Electronic proof of delivery",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "As a standalone last mile delivery software, you can use Circuit for Teams alongside any other system you’re using right now, including your current eCommerce platform. Circuit also saves you time and money on your deliveries, while boosting customer satisfaction with your delivery process.",
+                "spans": [
+                  {
+                    "type": "em",
+                    "start": 85,
+                    "end": 101
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "To experience Circuit for Teams for yourself and discover how it can save you time and money as it handles your last mile deliveries, start your free trial today.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams"
+                    },
+                    "start": 145,
+                    "end": 161
+                  },
+                  {
+                    "type": "em",
+                    "start": 0,
+                    "end": 162
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "no_index": false,
+  "meta": [
+    {
+      "title1": "Last Mile Delivery Software Functionality: 6 Things to Look For",
+      "description1": "Last mile delivery software can take a load off of you, but which functionality is the most important for delivery services?\n"
+    }
+  ],
+  "social": [
+    {
+      "image": {
+        "origin": {
+          "id": "",
+          "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/09/5ffb6e4a-039a-46e3-b9e0-9cdae8d461af.png",
+          "width": 2224,
+          "height": 1288
+        }
+      },
+      "title1": "Last Mile Delivery Software Functionality: 6 Things to Look For",
+      "description1": "Last mile delivery software can take a load off of you, but which functionality is the most important for delivery services?\n"
+    }
+  ],
+  "primary_category": {
+    "id": "Yg7TlxEAACQAeTDM",
+    "wioUrl": "wio://documents/Yg7TlxEAACQAeTDM"
+  },
+  "type": "article",
+  "tags": [],
+  "lang": "en-us",
+  "grouplang": "Yg6MwBEAACMAd_Ea"
+}

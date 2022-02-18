@@ -1,0 +1,922 @@
+{
+  "slug": "delivery-logistics-app",
+  "time_to_read": "time to read",
+  "title": "The 5 Most Important Features of Your Delivery Logistics App",
+  "abstract": [],
+  "author": {
+    "id": "Yg60FBEAACEAeKJC",
+    "wioUrl": "wio://documents/Yg60FBEAACEAeKJC"
+  },
+  "product": "teams",
+  "description": [
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Organizing the logistics of a delivery service can leave delivery managers and dispatchers overwhelmed. That is why you need a delivery logistics app to help.",
+        "spans": []
+      }
+    }
+  ],
+  "featured_image": {
+    "origin": {
+      "id": "",
+      "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/11/3c40791a-7ee4-4628-8f40-b3c3bcb0a6e3.png",
+      "width": 2224,
+      "height": 1288
+    }
+  },
+  "body": [
+    {
+      "key": "rich_text$e9ede6f0-d3b6-404c-96be-a694d70c776c",
+      "value": {
+        "variation": "default-slice",
+        "items": [
+          {}
+        ],
+        "primary": {
+          "content": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Organizing all the logistical steps involved in running a delivery service can leave even the most experienced delivery managers and dispatchers overwhelmed. ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "It’s time-consuming and complex to distribute delivery addresses and routes efficiently across your team of drivers, provide accurate driving instructions to ensure each package gets to its correct destination, and keep everyone on the team updated about changes as they happen in real-time.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A delivery logistics app should have you covered for all of these parts of your delivery process. But given how many apps there are to choose from, what should you look for when deciding which one is best for your own delivery business?",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams/blog/routific-competitors-alternatives"
+                    },
+                    "start": 102,
+                    "end": 146
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "In this article, we’ll walk you through the five most important features to look out for when choosing a delivery logistics app — and how our software and mobile app, Circuit for Teams, deals with them. We look at: ",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "/teams"
+                    },
+                    "start": 167,
+                    "end": 184
+                  }
+                ]
+              }
+            },
+            {
+              "type": "o-list-item",
+              "content": {
+                "text": "Delivery route calculation and optimization across your fleet for faster and more efficient deliveries.\n",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "#delivery"
+                    },
+                    "start": 0,
+                    "end": 103
+                  }
+                ]
+              }
+            },
+            {
+              "type": "o-list-item",
+              "content": {
+                "text": "Accurate real-time navigation for each delivery driver.\n",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "#accurate"
+                    },
+                    "start": 0,
+                    "end": 55
+                  }
+                ]
+              }
+            },
+            {
+              "type": "o-list-item",
+              "content": {
+                "text": "Real-time driver and delivery route tracking.\n",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "#tracking"
+                    },
+                    "start": 0,
+                    "end": 45
+                  }
+                ]
+              }
+            },
+            {
+              "type": "o-list-item",
+              "content": {
+                "text": "Automatic ETA notifications for recipients. \n",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "#eta"
+                    },
+                    "start": 0,
+                    "end": 44
+                  }
+                ]
+              }
+            },
+            {
+              "type": "o-list-item",
+              "content": {
+                "text": "Electronic proof of delivery capture.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "#pod"
+                    },
+                    "start": 0,
+                    "end": 37
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Along the way, we’ll also show you how some of our customers have successfully used Circuit for Teams to solve their delivery logistics challenges.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Want to experience for yourself how Circuit for Teams removes the hassle of delivery logistics? Sign up for a free trial now and start using it for your last mile delivery operations today.",
+                "spans": [
+                  {
+                    "type": "em",
+                    "start": 0,
+                    "end": 96
+                  },
+                  {
+                    "type": "em",
+                    "start": 96,
+                    "end": 124
+                  },
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "/teams"
+                    },
+                    "start": 96,
+                    "end": 124
+                  },
+                  {
+                    "type": "em",
+                    "start": 124,
+                    "end": 189
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "1. Delivery Route Calculation and Route Optimization across Your Fleet",
+                "spans": []
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/11/c71920a5-b6d5-4d27-b53c-501d7c0c3b2c-1024x593.png"
+                },
+                "alt": "The 5 Most Important Features of Your Delivery Logistics App. Delivery Route Calculation and Route Optimization Across Your Fleet"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Calculating the fastest and most efficient route for a single driver is complicated (actually, impossible) without the help of a route planner, but it’s extra difficult when you have to factor in a whole team of delivery drivers. How do you optimize multiple routes, and make sure your operation is efficient as a whole?",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "/route-planner"
+                    },
+                    "start": 129,
+                    "end": 142
+                  },
+                  {
+                    "type": "strong",
+                    "start": 144,
+                    "end": 228
+                  },
+                  {
+                    "type": "em",
+                    "start": 309,
+                    "end": 319
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Good delivery management software streamlines the route planning process by using algorithms to work out the best routes for multiple drivers on your behalf. You no longer need to mentally figure out which driver should deliver to which addresses, or which order those deliveries should follow.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Circuit for Teams optimizes routes across your entire fleet by distributing deliveries between a team of drivers. It takes into account variables such as traffic, priority stops, time constraints, driver working hours, vehicle capacities (from 2022), geographical limitations, and more. ",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "/teams"
+                    },
+                    "start": 0,
+                    "end": 17
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "All you need to do is upload a list of delivery addresses into the Circuit for Teams web app, and the software calculates the best routes for the entire fleet and assigns them to the right driver. This means each of your delivery drivers can complete more deliveries within the time they have.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading3",
+              "content": {
+                "text": "How One Dutch Courier Used Circuit for Teams to Increase Deliveries by 300%",
+                "spans": []
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/11/f4321725-1a7d-49b1-a354-6932614c44f3-1024x593.png"
+                },
+                "alt": "The 5 Most Important Features of Your Delivery Logistics App. How One Dutch Courier Used Circuit for Teams to Increase Deliveries by 300%"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A bicycle courier business based in the Netherlands (who requested to remain anonymous), delivers medication from pharmacies to patients at home. They used Circuit for Teams to help increase their deliveries by 300% in 12 months.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams"
+                    },
+                    "start": 156,
+                    "end": 173
+                  },
+                  {
+                    "type": "strong",
+                    "start": 182,
+                    "end": 228
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Delivering medicine is challenging because recurring prescriptions need to be delivered alongside one-off prescriptions that may be more urgent. This courier company was able to use our route optimization functionality alongside our priority stops feature to assist them in organizing their days. ",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://help.getcircuit.com/en/articles/3290670-understanding-stop-settings"
+                    },
+                    "start": 233,
+                    "end": 255
+                  }
+                ]
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/11/c3d8cd0d-baf6-4b06-a6b5-98106b75071b-1024x593.png"
+                },
+                "alt": "The 5 Most Important Features of Your Delivery Logistics App. Circuit for Teams priority stops feature"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The courier receives recurring orders from the pharmacy and imports addresses into Circuit for Teams, which quickly optimizes a delivery route and sends out driving instructions. Then, the courier collects all the packages from the pharmacy, including the same-day prescriptions. These additional stops are then entered into the Circuit mobile app and the route gets recalculated in seconds.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "By using Circuit for Teams to manage their delivery logistics, this courier company has increased its deliveries to 400+ every day.",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 131
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Read the whole case study here: How Courier Dispatch Software Helped One Courier Scale Daily Deliveries by 300% in 12 Months",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "/teams/blog/courier-dispatch-software"
+                    },
+                    "start": 32,
+                    "end": 124
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "2. Accurate and Dynamic Navigation for Each Delivery Driver",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "One important part of the delivery logistics process is to make it easy for drivers to navigate their routes. The quicker and easier they arrive at each stop, the smoother the delivery process becomes for them and for you.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "After it calculates all the routes for your delivery fleet, Circuit for Teams sends out detailed driving instructions to every individual driver, which they receive on the Circuit for Teams driver app. Drivers follow these instructions on their own devices, using whichever maps app they prefer, whether that’s Google Maps, Waze, or Apple Maps. The driver-side mobile app works on a range of mobile devices including iPhones, Android and other smartphones.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "/teams"
+                    },
+                    "start": 60,
+                    "end": 77
+                  },
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://www.google.com/maps"
+                    },
+                    "start": 311,
+                    "end": 322
+                  },
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://www.waze.com/"
+                    },
+                    "start": 324,
+                    "end": 328
+                  },
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://www.apple.com/maps/"
+                    },
+                    "start": 333,
+                    "end": 343
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "All driving instructions are adjusted in real-time according to the traffic conditions. If traffic slows along the original optimized delivery route, Circuit automatically recalculates the next best route and automatically changes the driving instructions sent to the mobile application. ",
+                "spans": []
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/11/7197415a-2a7a-4dcc-8191-07ac2551afb8-1024x593.png"
+                },
+                "alt": "The 5 Most Important Features of Your Delivery Logistics App. Accurate and Dynamic Navigation"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If a new delivery stop is added (for instance, when a last-minute or same-day order comes in) the Circuit algorithm also recalculates the optimized route and adds the pick-up and drop-off stops to the driver’s list. You can manage this easily from HQ, and updated ETA notifications get sent to all recipients.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://help.getcircuit.com/en/articles/3850369-delivery-updates-for-recipients"
+                    },
+                    "start": 264,
+                    "end": 309
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "3. Real-time Tracking of Drivers and Delivery Routes",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "It’s important you can keep track of where your drivers are at any point along their route. And a good delivery logistics app will give you this real-time visibility, allowing you to update your customers about deliveries without interrupting drivers as they go about their day. ",
+                "spans": []
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/11/2aa17bff-d438-442b-98d6-be2091a5feb2-1-1024x593.png"
+                },
+                "alt": "The 5 Most Important Features of Your Delivery Logistics App. Real-time Tracking of Drivers and Delivery Routes"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "With Circuit for Teams, you get real-time driver tracking and route monitoring functionality. Each driver’s mobile app syncs with your web app every 15 seconds, meaning you get an accurate ETA for the next stop and later deliveries. As a dispatcher, you get a full overview of all the routes in progress.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "/teams"
+                    },
+                    "start": 5,
+                    "end": 22
+                  },
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "/teams/blog/delivery-driver-tracking-app"
+                    },
+                    "start": 42,
+                    "end": 78
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This tracking feature also gives you information about how long it has taken for drivers to complete their previous stops, giving you the opportunity to assess delivery driver performance.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Here’s a more",
+                "spans": [
+                  {
+                    "type": "em",
+                    "start": 0,
+                    "end": 12
+                  },
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "/teams/blog/delivery-driver-tracking-app"
+                    },
+                    "start": 0,
+                    "end": 12
+                  },
+                  {
+                    "type": "em",
+                    "start": 12,
+                    "end": 13
+                  },
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "/teams/blog/delivery-driver-tracking-app"
+                    },
+                    "start": 12,
+                    "end": 13
+                  },
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "/teams/blog/delivery-driver-tracking-app"
+                    },
+                    "start": 13,
+                    "end": 13
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading3",
+              "content": {
+                "text": "How Stoke Cold Press Juicery Benefits from Driver Tracking ",
+                "spans": []
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/11/3fee781b-6c8a-4044-a689-0105dbb7f93d-1024x593.png"
+                },
+                "alt": "The 5 Most Important Features of Your Delivery Logistics App. How Stoke Cold Press Juicery Benefits from Driver Tracking"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Before the Covid-19 pandemic, the Stoke Cold Press juicery sold about 95% of its juices to restaurants and cafés in Buda, Texas. But when the city went into lockdown, most of that business evaporated. Owner, Jill Bentley-Lobban, quickly had to find an alternative outlet for her products.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://usa.stokejuice.com/"
+                    },
+                    "start": 34,
+                    "end": 50
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Almost overnight, the business transitioned from a B2B model to focus on home deliveries. This demanded a fast and drastic change in terms of delivery logistics because it involved many more delivery addresses and stops.",
+                "spans": []
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/11/image4-1.png"
+                },
+                "alt": "Stoke Cold Press juice"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Along with benefitting from the time saved by using the Circuit route optimization functionality, Jill appreciates how she can use our driver tracking feature to keep an eye on how her delivery routes are progressing. She also says that customer satisfaction has improved because if a customer calls about the ETA of their delivery, she can simply look at her screen and give an accurate update.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Here’s the full Stoke Cold Press Juice Case Study.",
+                "spans": [
+                  {
+                    "type": "em",
+                    "start": 0,
+                    "end": 50
+                  },
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams/blog/stoke-cold-pressed-juicery-case-study"
+                    },
+                    "start": 0,
+                    "end": 50
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "4. Automatic Recipient Notifications for Easier Communication",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Another feature that’s essential for smooth delivery logistics operations is automatic customer notifications. This automation of updates will free up delivery drivers and dispatchers from fielding customer calls. It also limits potentially fraught customer interactions and streamlines your delivery logistics process.",
+                "spans": [
+                  {
+                    "type": "em",
+                    "start": 77,
+                    "end": 86
+                  }
+                ]
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/11/fb7b886d-ebb7-4a89-8466-cc360eb58970-1024x593.png"
+                },
+                "alt": "The 5 Most Important Features of Your Delivery Logistics App. Automatic Recipient Notifications"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Circuit for Teams sends out automatic delivery status updates to customers by SMS and/or email. If a delivery is delayed, Circuit for Teams automatically sends out an updated ETA notification. This means recipients know when they need to be at home to accept the package — reducing the number of missed deliveries.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "/teams"
+                    },
+                    "start": 0,
+                    "end": 17
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "5. Electronic Proof of Delivery Capture",
+                "spans": []
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/11/image3.gif"
+                },
+                "alt": "Get a signature for POD"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The final step in a successful delivery logistics process is capturing and storing electronic proof of delivery. By registering when, where, and to whom delivery is made, delivery drivers make sure that a correct record is kept of a successful delivery, reducing potential customer complaints and miss-delivery claims.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "When you use Circuit for Teams for your delivery logistics, you get two ways of recording each successful delivery on the driver app:",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "/teams"
+                    },
+                    "start": 13,
+                    "end": 30
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Photo capture. The delivery driver uses their smartphone to take a photo of the customer taking delivery, or of the safe place where the package has been stowed for later retrieval.",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 14
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Electronic Signature. The delivery driver uses their mobile app to collect an electronic signature from the person who takes delivery of the package.",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 21
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The photo or electronic signature is automatically attached to a delivery notification SMS or email that gets sent to the recipient. All photos and electronic signatures are sent to the cloud for storage and can be retrieved at any future point (if a customer claims they failed to receive their delivery, for example). ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "For a more detailed explanation of the proof of delivery features of Circuit for Teams, check out: Electronic Proof of Delivery: How You Can Obtain Secure Paperless ePOD.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "/teams/blog/electronic-proof-of-delivery"
+                    },
+                    "start": 99,
+                    "end": 169
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Circuit for Teams: An All-In-One Delivery Logistics App for Your Last Mile Delivery Operations",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If you’re looking for a delivery app to streamline the delivery logistics operations for your entire fleet, Circuit for Teams gives you:",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "/teams"
+                    },
+                    "start": 108,
+                    "end": 125
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Optimized delivery routes that make sense for all of your delivery drivers.",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Dynamic driving instructions that change with real-time circumstances.",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Tools for driver tracking — with real-time visibility and accurate ETAs.",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Automated customer notifications that free you up for other logistical tasks.",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Electronic proof of delivery capture so you can record every delivery.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Want to experience for yourself how Circuit for Teams removes the hassle of delivery logistics? Sign up for a free trial now, and start using it for your last mile delivery operations today.",
+                "spans": [
+                  {
+                    "type": "em",
+                    "start": 0,
+                    "end": 96
+                  },
+                  {
+                    "type": "em",
+                    "start": 96,
+                    "end": 124
+                  },
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "/teams"
+                    },
+                    "start": 96,
+                    "end": 124
+                  },
+                  {
+                    "type": "em",
+                    "start": 124,
+                    "end": 190
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "no_index": false,
+  "meta": [
+    {
+      "title1": "The 5 Most Important Features of Your Delivery Logistics App",
+      "description1": "Organizing the logistics of a delivery service can leave delivery managers and dispatchers overwhelmed. That is why you need a delivery logistics app to help.\n"
+    }
+  ],
+  "social": [
+    {
+      "image": {
+        "origin": {
+          "id": "",
+          "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/11/3c40791a-7ee4-4628-8f40-b3c3bcb0a6e3.png",
+          "width": 2224,
+          "height": 1288
+        }
+      },
+      "title1": "The 5 Most Important Features of Your Delivery Logistics App",
+      "description1": "Organizing the logistics of a delivery service can leave delivery managers and dispatchers overwhelmed. That is why you need a delivery logistics app to help.\n"
+    }
+  ],
+  "primary_category": {
+    "id": "Yg7TlxEAACQAeTDO",
+    "wioUrl": "wio://documents/Yg7TlxEAACQAeTDO"
+  },
+  "type": "article",
+  "tags": [],
+  "lang": "en-us",
+  "grouplang": "Yg6MwBEAACMAd_Ea"
+}

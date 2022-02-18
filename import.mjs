@@ -28,7 +28,7 @@ const go = async () => {
       body: JSON.stringify({
         query: `
           query getLatestPosts {
-            posts(first: 30) {
+            posts(first: 56) {
               nodes {
                 date
                 modified
@@ -128,7 +128,9 @@ const go = async () => {
             value: {
               variation: "default-slice",
               items: [{}],
-              primary: content,
+              primary: {
+                content,
+              },
             },
           },
         ],

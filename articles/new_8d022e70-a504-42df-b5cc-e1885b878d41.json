@@ -1,0 +1,925 @@
+{
+  "slug": "vehicle-routing-software",
+  "time_to_read": "time to read",
+  "title": "The Best Vehicle Routing Software: 4 Options for Delivery Teams",
+  "abstract": [],
+  "author": {
+    "id": "Yg60FBEAACEAeKJE",
+    "wioUrl": "wio://documents/Yg60FBEAACEAeKJE"
+  },
+  "product": "teams",
+  "description": [
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "In this guide, we review 4 different vehicle routing software platforms for delivery teams of all shapes and sizes.",
+        "spans": []
+      }
+    }
+  ],
+  "featured_image": {
+    "origin": {
+      "id": "",
+      "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/10/ae18c0b0-1d1d-497f-8cf1-79ab728f6c89.png",
+      "width": 2224,
+      "height": 1288
+    }
+  },
+  "body": [
+    {
+      "key": "rich_text$e9ede6f0-d3b6-404c-96be-a694d70c776c",
+      "value": {
+        "variation": "default-slice",
+        "items": [
+          {}
+        ],
+        "primary": {
+          "content": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "One of the biggest costs for delivery teams — whether we’re talking about 1-2 drivers doing local deliveries or an entire fleet of cargo vans — is the cost of making the deliveries. That means paying for your delivery drivers, and, if you’re supplying company vehicles or offering mileage reimbursements, it also means paying for fuel costs and vehicle maintenance.",
+                "spans": [
+                  {
+                    "type": "em",
+                    "start": 159,
+                    "end": 180
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "vehicle routing software is a great way to cut down on your business’s expenses. Vehicle routing software optimizes your delivery routes so your drivers are making their stops as quickly and efficiently as possible.",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 24
+                  },
+                  {
+                    "type": "strong",
+                    "start": 24,
+                    "end": 79
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This means your drivers can make more deliveries in less time, which lets you increase how much product you can move while reducing expenses. It also lets you drastically cut down on the time it takes to make and manage a route. Users of Circuit save on average 1 hour every day just in route planning alone.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/"
+                    },
+                    "start": 238,
+                    "end": 245
+                  },
+                  {
+                    "type": "strong",
+                    "start": 262,
+                    "end": 278
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "(You can read our case studies here, where some customers cut payroll by as much as 12.5+ hours a week for their small delivery team.)",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "/teams/blog/small-business-deliveries"
+                    },
+                    "start": 1,
+                    "end": 35
+                  },
+                  {
+                    "type": "strong",
+                    "start": 83,
+                    "end": 102
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "But different delivery teams have different needs. For example, some teams need large-scale courier management software designed to integrate into complex business platforms (for example, hooking into their supply chain or accounting tools). Other delivery teams focus more on local deliveries and simply need a way to create fast and efficient routes.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "In this guide, we cover vehicle routing software platforms for delivery teams of all shapes and sizes.",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 24,
+                    "end": 48
+                  },
+                  {
+                    "type": "strong",
+                    "start": 48,
+                    "end": 58
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Are you ready to start creating optimal routes at a click of a button? You can use Circuit to plan and execute single and multi-driver routes. Start your free trial today.",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 70
+                  },
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams"
+                    },
+                    "start": 143,
+                    "end": 170
+                  },
+                  {
+                    "type": "em",
+                    "start": 71,
+                    "end": 171
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Vehicle Routing Software for Small-to-Midsize Delivery Teams ",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 60
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Sometimes, local delivery teams will try to use free sat nav or consumer mapping apps, like Google Maps or Waze, to plan their delivery route.",
+                "spans": []
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/10/1f1ad833-d1b6-474d-b126-e87a7931a63f-1024x593.png"
+                },
+                "alt": "Vehicle Routing Software for Small-to-Midsize Delivery Teams"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We’ve actually investigated this ourselves, and we also wrote a post on how to create the fastest route with only Google Maps.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams/blog/multiple-destinations-google-maps-shortest-route"
+                    },
+                    "start": 72,
+                    "end": 109
+                  },
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams/blog/multiple-destinations-google-maps-shortest-route"
+                    },
+                    "start": 109,
+                    "end": 113
+                  },
+                  {
+                    "type": "em",
+                    "start": 109,
+                    "end": 113
+                  },
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams/blog/multiple-destinations-google-maps-shortest-route"
+                    },
+                    "start": 114,
+                    "end": 125
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Spoiler: it doesn’t work. And it doesn’t work because there’s no actual optimization; you’re just guessing by rearranging the stops.",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 8
+                  },
+                  {
+                    "type": "em",
+                    "start": 72,
+                    "end": 84
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "So, when you use these everyday mapping apps by themselves, you’re spending time creating a route that might not actually be saving your drivers any time. And you’re also missing out on the other features of vehicle routing software, which we detail below.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading3",
+              "content": {
+                "text": "1. Circuit for Teams",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 2
+                  },
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams"
+                    },
+                    "start": 3,
+                    "end": 20
+                  },
+                  {
+                    "type": "strong",
+                    "start": 3,
+                    "end": 20
+                  }
+                ]
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/10/0449b50b-b6fc-4d13-9576-c42b257e6ad3-1024x593.png"
+                },
+                "alt": "Circuit for Teams"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Circuit for Teams is a multi-driver vehicle routing software that’s ideal for small-to-midsize delivery teams. It saves your business time and money by optimizing your daily routes. There’s no limit on the number of stops you can add to a route, and there’s no limit to how many routes you can make in a day.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams"
+                    },
+                    "start": 0,
+                    "end": 17
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Stops can be added either manually (on a web app or a mobile app that works with both Android and iOS mobile devices) or by uploading a spreadsheet.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://help.getcircuit.com/en/articles/1412466-importing-spreadsheets-in-circuit"
+                    },
+                    "start": 124,
+                    "end": 147
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Once your stops are in Circuit, you can customize your routes.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This includes setting priority stops, time windows, and average time per stop.",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 22,
+                    "end": 37
+                  },
+                  {
+                    "type": "strong",
+                    "start": 38,
+                    "end": 50
+                  },
+                  {
+                    "type": "strong",
+                    "start": 50,
+                    "end": 51
+                  },
+                  {
+                    "type": "strong",
+                    "start": 56,
+                    "end": 78
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "This lets you set a stop as priority number one, so when our route optimization software creates the fastest route possible, it’ll be the quickest route possible, starting with your priority stop.",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Time windowsYou can set Circuit up so your deliveries get planned within a specific timeframe. One of our customers uses this to make sure all of her commercial deliveries happen during the morning. All her residential deliveries happen later, when the store’s customers are more likely to be home.",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 12
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Your average time per stop plays an important role in figuring out the best way to optimize your route. If you’re dealing with deliveries that take a bit more time at each stop, then you’re going to be on a different route than drivers who only need to spend 2 minutes at each stop.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Then you let Circuit know how many drivers are going to be assigned to a route, and our route optimization algorithm creates the fastest route available to you.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Your drivers can access the route through their Circuit mobile app, and they can use the route with their preferred sat nav app, like Google Maps, Apple Maps, or Waze. If you’re at the office and need to make any changes to the route, those changes show up in real-time on the driver’s phone. For example, if a customer called in and canceled their order, you can simply remove their stop from the route and your driver will receive the update.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading4",
+              "content": {
+                "text": "Other Key Route Management Features ",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 35
+                  }
+                ]
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/10/file-N4EUzXkUME-1.png"
+                },
+                "alt": "Option to select available drivers."
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Routes aren’t finished once you optimize them. Your delivery drivers still need to navigate the route, complete the stop, and get proof of delivery.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Circuit for Teams includes all of these core features.",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "With our route monitoring feature you can see where your drivers are within the context of their route. This means you see their location, but also which stop they just completed, where they’re going next, and updated ETAs.",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "With our order tracking feature, your customers can get automated updates (either through SMS, text message, or both) that tells them when their package is on its way.",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Proof of deliveryYou can collect proof of delivery in two ways with Circuit. You can have your driver take a photo of where they left the package, or the driver can get a signature from the customer. (The customer simply signs on the driver’s smartphone with their finger, and it goes into the app.)",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 17
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading3",
+              "content": {
+                "text": "",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If your delivery business doesn’t need the multi-driver features of Circuit for Teams — and won’t benefit from its more advanced functionality like route monitoring, order tracking, and proof of delivery — then you can get vehicle routing with the Circuit Route Planner.",
+                "spans": []
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/10/012e4a23-c5a7-4964-8653-d527fe139183-1024x593.png"
+                },
+                "alt": "Circuit Route Planner"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Like Circuit for Teams, you can manually type in your addresses into the Circuit Route Planner. You can also customize your routes based on priority stops, time windows, and average time per stop. One of our customers, Sagar Khatri — a subcontractor courier — uses the Circuit Route Planner to create the best route and speed up his delivery process.",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 140,
+                    "end": 154
+                  },
+                  {
+                    "type": "strong",
+                    "start": 156,
+                    "end": 168
+                  },
+                  {
+                    "type": "strong",
+                    "start": 174,
+                    "end": 195
+                  },
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams/blog/courier-driver-case-study"
+                    },
+                    "start": 219,
+                    "end": 231
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "When Sagar loads his vehicle, he puts a little description of each package into the notes section of the Circuit app. So when he gets to a stop and he looks at his notes, he can see what package he’s looking at. This may sound like a small thing, but when you’re dealing with dozens (maybe hundreds) of deliveries a day, even a 2-minute time-saver can add up.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Sagar credits Circuit for the number of deliveries he could make in a day.",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 26,
+                    "end": 73
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Vehicle Routing Software for Large-Scale Fleet Operations ",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 57
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading3",
+              "content": {
+                "text": "",
+                "spans": []
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/10/97f54b1f-13b9-49f3-9ad4-8d7d70e1bc5e-1024x593.png"
+                },
+                "alt": "Samsara"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Similar to Circuit for Teams, Samsara gives you route optimization and route monitoring, and can also send out customer updates. In that regard, it has all the fundamental aspects of vehicle routing software.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://www.samsara.com/"
+                    },
+                    "start": 30,
+                    "end": 37
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If you’re running a large-scale delivery operation —  perhaps with several fleet managers on deck — there are some key differences that mean Samsara is a vehicle routing software worth considering if Circuit doesn’t give you everything you need.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "For example, Samsara lets you set up geofencing alerts. You can tell Samsara Dispatch to designate an area (by drawing borders over a map) so you get a notification when a driver leaves a designated area. This helps you make sure your drivers are where they’re supposed to be, and it also can be used to send out updates to a customer when your driver is getting close to making their delivery.",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 54
+                  }
+                ]
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/10/image.png"
+                },
+                "alt": "New Geofence Alert: Set up specific notifications"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Samsara also measures fuel trends. Samsara will tell you if your drivers are breaking too hard, carrying loads that are heavier than planned, or constantly turning their vehicle on and off throughout the route. If you’re dealing with 100s of vehicles, those numbers add up.",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 34
+                  },
+                  {
+                    "type": "strong",
+                    "start": 272,
+                    "end": 273
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading3",
+              "content": {
+                "text": " 2. Tookan ",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://jungleworks.com/tookan/"
+                    },
+                    "start": 4,
+                    "end": 10
+                  },
+                  {
+                    "type": "strong",
+                    "start": 1,
+                    "end": 10
+                  }
+                ]
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/10/38066f31-8adc-4349-b51d-eae97058984d-1024x593.png"
+                },
+                "alt": "Tookan"
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Tookan is another platform that’s good for larger fleet management operations because it lets you create waybills, geofence specific areas (and assign those areas to drivers), and lets you offer on-demand delivery or what’s known as fulfillment automation.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://jungleworks.com/tookan/"
+                    },
+                    "start": 0,
+                    "end": 6
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "For example, customer orders are automatically sent to whichever one of your delivery drivers is nearest and has the product on hand. This also makes Tookan good for field service companies, which will have techs driving with gear and equipment on their truck. When a last-minute service call comes in for a home repair or appliance repair issue, you can use your Tookan account to help automate that call assignment.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "But because of its advanced features, Tookan’s pricing structure is only cost-effective for larger teams.",
+                "spans": []
+              }
+            },
+            {
+              "type": "image",
+              "content": {
+                "text": "",
+                "spans": []
+              },
+              "data": {
+                "origin": {
+                  "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/10/image-2-1024x533.png"
+                },
+                "alt": "Tookan pricing tiers."
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Tookan’s pricing is on a per month rate with unlimited drivers, but you do have a limited number of deliveries on your allowance. What changes from plan to plan isn’t Tookan’s features, but how many deliveries you can make per month.",
+                "spans": [
+                  {
+                    "type": "em",
+                    "start": 190,
+                    "end": 232
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Here is the breakdown of Tookan’s pricing plans*:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Early-stage: 5 per month for 150 deliveries.",
+                "spans": [
+                  {
+                    "type": "em",
+                    "start": 13,
+                    "end": 44
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Startup stage: 9 per month for 500 deliveries.",
+                "spans": [
+                  {
+                    "type": "em",
+                    "start": 15,
+                    "end": 46
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Growth stage: 59 per month for 2000 deliveries.",
+                "spans": [
+                  {
+                    "type": "em",
+                    "start": 14,
+                    "end": 47
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Standard stage: 99 per month for 5000 deliveries.",
+                "spans": [
+                  {
+                    "type": "em",
+                    "start": 16,
+                    "end": 49
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "*Note: These prices are lower than usual because they’re factoring in an annual commitment. If you use Tookan on a month-to-month basis, these rates will increase.",
+                "spans": [
+                  {
+                    "type": "em",
+                    "start": 1,
+                    "end": 6
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Whether this pricing structure works for you will depend mostly on your size and operational efficiency (how many deliveries your team can make in a day).",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Let’s say you’re a courier company that completes around 400 deliveries every day. And those 400 deliveries are split between three couriers. That means your three drivers are completing roughly 8,000 deliveries per month.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This delivery output would put you on the Tookan Standard stage plan at 99 for 5,000 deliveries. Then you’d be charged an extra /bin/sh.08 for every delivery over your allotted amount. So your monthly fee would be a total of 39.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Compare that to Circuit’s pricing structure — with Circuit for Teams, you’re paying monthly for each driver, not each delivery. So you don’t get penalized for making more deliveries — and if you ran the same-sized courier team (3 couriers making 8,000 deliveries per month), you’d only be paying 80 per month when you use Circuit for Teams.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/team/"
+                    },
+                    "start": 16,
+                    "end": 43
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Final Thoughts: Choosing the Best Vehicle Routing Software for Your Team ",
+                "spans": [
+                  {
+                    "type": "strong",
+                    "start": 0,
+                    "end": 72
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Delivery routes get complicated very quickly, due to changing traffic patterns, time constraints, and other factors. This is even trickier when you have multiple drivers out there. Finding the right vehicle routing software is a must-do if you want to keep things on track.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If you’re in need of a heavy-duty platform for a large fleet of vehicles, Samsara and Tookan are two good options to consider.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "And if you’re a small-to-midsize business, we recommend trying Circuit for Teams. It’s a route planning software that handles all your vehicle routing needs, as well as helps you manage your last-mile delivery processes. And if you don’t need multi-driver routing, GPS tracking, customer updates, and proof of delivery, you can also try Circuit Route Planner.",
+                "spans": [
+                  {
+                    "type": "hyperlink",
+                    "data": {
+                      "url": "https://getcircuit.com/teams"
+                    },
+                    "start": 63,
+                    "end": 80
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "no_index": false,
+  "meta": [
+    {
+      "title1": "The Best Vehicle Routing Software: 4 Options for Delivery Teams",
+      "description1": "In this guide, we review 4 different vehicle routing software platforms for delivery teams of all shapes and sizes.\n"
+    }
+  ],
+  "social": [
+    {
+      "image": {
+        "origin": {
+          "id": "",
+          "url": "https://wordpress.getcircuit.com/wp-content/uploads/2021/10/ae18c0b0-1d1d-497f-8cf1-79ab728f6c89.png",
+          "width": 2224,
+          "height": 1288
+        }
+      },
+      "title1": "The Best Vehicle Routing Software: 4 Options for Delivery Teams",
+      "description1": "In this guide, we review 4 different vehicle routing software platforms for delivery teams of all shapes and sizes.\n"
+    }
+  ],
+  "primary_category": {
+    "id": "Yg7TlxEAACQAeTCy",
+    "wioUrl": "wio://documents/Yg7TlxEAACQAeTCy"
+  },
+  "type": "article",
+  "tags": [],
+  "lang": "en-us",
+  "grouplang": "Yg6MwBEAACMAd_Ea"
+}
