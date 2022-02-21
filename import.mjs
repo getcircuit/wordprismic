@@ -2,18 +2,16 @@ import fetch from "node-fetch";
 import path from "path";
 import fs from "fs";
 import uuid from "uuid/v4.js";
-import cheerio from "cheerio";
-import { exec } from "child_process";
-import { fileURLToPath } from "url";
-import { dirname } from "path";
 
 import {
   getAuthorIdFromSlug,
   getCategoryIdFromSlug,
-} from "./relationshipMaps.mjs";
+  getProductByCat,
+} from "./lib/relationshipMaps.mjs";
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
+import getPostBySlug from "./lib/queries/getPostBySlug.mjs";
+import { stripHTML, htmlParser } from "./lib/utils.mjs";
+
 const OUTPUT_FOLDER = "articles";
 const OUTPUT_PATH = path.join(process.cwd(), `${OUTPUT_FOLDER}`);
 
@@ -26,50 +24,7 @@ const go = async () => {
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
-        query: `
-          query getLatestPosts {
-            posts(first: 56) {
-              nodes {
-                date
-                modified
-                slug
-                title
-                excerpt
-                content
-                featuredImage {
-                  node {
-                    sourceUrl
-                    mediaDetails {
-                      height
-                      width
-                    }
-                  }
-                }
-                categories(first: 3) {
-                  nodes {
-                    name
-                    slug    
-                    parent {
-                      node {
-                        name
-                      }
-                    }
-                  }
-                }
-                author {
-                  node {
-                    description
-                    name
-                    slug
-                    avatar {
-                      url
-                    }
-                  }
-                }
-              }
-            }
-          }
-        `,
+        query: getPostBySlug("gig-economy-apps-for-couriers"),
       }),
     }
   );
@@ -77,7 +32,7 @@ const go = async () => {
   const { data } = await response.json();
 
   const json = await Promise.all(
-    data.posts.nodes.map(async (post) => {
+    [data].map(async ({ post }) => {
       const authorId = getAuthorIdFromSlug(post.author.node.slug);
       const categoryId = getCategoryIdFromSlug(post.slug);
       const product = getProductByCat(
@@ -164,13 +119,20 @@ const go = async () => {
     })
   );
 
-  // const data = [];
-
+  // log will go here
   json.filter(Boolean).forEach(
     (post) =>
       new Promise((resolve, reject) => {
         fs.writeFile(
-          `/${OUTPUT_PATH}/new_${uuid()}.json`,
+          `/${OUTPUT_PATH}/${data.post.slug}.html`,
+          data.post.content,
+          (err) => {
+            err && reject(err);
+            resolve();
+          }
+        );
+        fs.writeFile(
+          `/${OUTPUT_PATH}/${data.post.slug}.json`,
           JSON.stringify(post, null, 2),
           (err) => {
             err && reject(err);
@@ -182,48 +144,3 @@ const go = async () => {
 };
 
 go();
-
-function getProductByCat(cat) {
-  switch (cat) {
-    case "Route Planner":
-      return "route-planner";
-    case "Teams":
-      return "teams";
-
-    default:
-      return undefined;
-  }
-}
-
-function stripHTML(html) {
-  return cheerio.load(html, { decodeEntities: true }).text();
-}
-
-async function htmlParser(html) {
-  const $ = cheerio.load(html, { decodeEntities: true });
-  let fixedHtml;
-
-  $("blockquote")
-    .children("h1, h2, h3, h4, h5, h6")
-    .each((i, el) => {
-      return $(el).replaceWith($(el).text());
-    });
-
-  // $("span").each((i, el) => {
-  //   return $(el).replaceWith($(el).text());
-  // });
-
-  fixedHtml = $.html("body").replace(/<body>|<\/body>/g, "");
-
-  return await new Promise((resolve, reject) => {
-    exec(
-      `ruby ${__dirname}/lib/htmlParser.rb ${JSON.stringify(
-        fixedHtml.replace(/\r?\n|\r/g, "")
-      )}`,
-      (err, stdout) => {
-        err && reject(err);
-        resolve(JSON.parse(stdout));
-      }
-    );
-  });
-}
