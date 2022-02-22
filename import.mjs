@@ -24,7 +24,7 @@ const go = async () => {
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
-        query: getPostBySlug("gig-economy-apps-for-couriers"),
+        query: getPostBySlug("how-to-become-an-independent-courier-contractor"),
       }),
     }
   );
@@ -38,7 +38,6 @@ const go = async () => {
       const product = getProductByCat(
         post.categories.nodes[0].parent.node.name
       );
-      const excerpt = await htmlParser(post.excerpt ?? "");
       const content = await htmlParser(post.content ?? "");
 
       if (authorId == null) {
@@ -68,7 +67,7 @@ const go = async () => {
             }
           : undefined,
         product: product,
-        description: excerpt,
+        description: stripHTML(post.excerpt),
         featured_image: {
           origin: {
             id: "",
@@ -133,7 +132,7 @@ const go = async () => {
         );
         fs.writeFile(
           `/${OUTPUT_PATH}/${data.post.slug}.json`,
-          JSON.stringify(post, null, 2),
+          JSON.stringify(post, null, 2).replace(/\u00A0/g, " "),
           (err) => {
             err && reject(err);
             resolve();

@@ -1,0 +1,3 @@
+[submodule "kramdown-prismic"]
+	path = kramdown-prismic
+	url = git@github.com:stormz/kramdown-prismic.git
