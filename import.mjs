@@ -1,7 +1,5 @@
-import fetch from "node-fetch";
 import path from "path";
 import fs from "fs";
-import uuid from "uuid/v4.js";
 
 import {
   getAuthorIdFromSlug,
@@ -9,30 +7,17 @@ import {
   getProductByCat,
 } from "./lib/relationshipMaps.mjs";
 
-import getPostBySlug from "./lib/queries/getPostBySlug.mjs";
-import { stripHTML, htmlParser } from "./lib/utils.mjs";
+import { stripHTML, htmlParser, formatDate } from "./lib/utils.mjs";
+import getAllPosts from "./lib/getAllPosts.mjs";
 
 const OUTPUT_FOLDER = "articles";
 const OUTPUT_PATH = path.join(process.cwd(), `${OUTPUT_FOLDER}`);
 
 const go = async () => {
-  const response = await fetch(
-    "https://circuitblog.kinsta.cloud/index.php?graphql",
-    {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        query: getPostBySlug("how-to-become-an-independent-courier-contractor"),
-      }),
-    }
-  );
-
-  const { data } = await response.json();
+  const allPosts = await getAllPosts();
 
   const json = await Promise.all(
-    [data].map(async ({ post }) => {
+    allPosts.map(async (post) => {
       const authorId = getAuthorIdFromSlug(post.author.node.slug);
       const categoryId = getCategoryIdFromSlug(post.slug);
       const product = getProductByCat(
@@ -44,7 +29,9 @@ const go = async () => {
         console.error(`${post.slug} is not mapped to an existing author`);
       }
       if (categoryId == null) {
-        console.error(`${post.slug} is not mapped to a category`);
+        console.error(
+          `${post.categories.nodes[0].parent.node.name} | ${post.categories.nodes[0].name} | ${post.slug} `
+        );
         return false;
       }
       if (product == null) {
@@ -54,8 +41,8 @@ const go = async () => {
       }
 
       return {
-        // last_publication_date: "2022-02-17T20:48:16+0000",
-        // first_publication_date: "2022-02-12T20:48:16+0000",
+        legacy_created_at: formatDate(post.first_publicaton_date),
+        legacy_updated_at: formatDate(post.last_publication_date),
         slug: post.slug,
         time_to_read: "time to read",
         title: post.title,
@@ -118,20 +105,20 @@ const go = async () => {
     })
   );
 
-  // log will go here
   json.filter(Boolean).forEach(
     (post) =>
       new Promise((resolve, reject) => {
+        // HTML file write for debug reasons
+        // fs.writeFile(
+        //   `/${OUTPUT_PATH}/${post.slug}.html`,
+        //   post.content,
+        //   (err) => {
+        //     err && reject(err);
+        //     resolve();
+        //   }
+        // );
         fs.writeFile(
-          `/${OUTPUT_PATH}/${data.post.slug}.html`,
-          data.post.content,
-          (err) => {
-            err && reject(err);
-            resolve();
-          }
-        );
-        fs.writeFile(
-          `/${OUTPUT_PATH}/${data.post.slug}.json`,
+          `/${OUTPUT_PATH}/${post.slug}.json`,
           JSON.stringify(post, null, 2).replace(/\u00A0/g, " "),
           (err) => {
             err && reject(err);
